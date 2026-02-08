@@ -6,3 +6,5 @@ expected chamber pressure ≈310psi.
 expected thrust ≈50N.
 expected burn time ≈1.2s.
 3 succesful tests from safe distance using diy electric igniters.
+
+Research paper to be written...
