@@ -3,3 +3,4 @@ Second CPU.
 no pipeline.
 each instruction - 8 clock ticks.
 Assembler/Decompiler available.
+https://github.com/jekabsv/ScottCpu_2
