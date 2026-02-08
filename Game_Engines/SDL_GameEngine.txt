@@ -1,0 +1,8 @@
+Third game engine based on c++ with SDL.
+not finished, is currently developed for a school project.
+only 2D for now for simplicity of developement.
+Will have a web based editor.
+Fully ECS based.
+SDL chosen for its compatability with browsers, in future conversion to OpenGl + WebGl might be possible for performance.
+https://github.com/jekabsv/ECS
+https://github.com/jekabsv/Game-Editor
