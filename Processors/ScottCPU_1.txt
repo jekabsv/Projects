@@ -1,0 +1,26 @@
+First CPU made for simply understanding the basic principles of Processors.
+Based of off Scott CPU.
+No pipeline.
+Each instruction - 8 clock ticks.
+8 bit bus.
+Currently broken.
+Instruction set:
+ADD
+SUB
+OR
+NOT
+XOR
+AND
+IN
+OUT
+INC
+DEC
+CMP
+LOAD
+MOVE
+BRE
+BRL
+BRG
+
+ISA lost to time. can be reverse engineered from the schematic, maybe will get to it.
+https://github.com/jekabsv/ScottCpu_1
