@@ -1,0 +1,5 @@
+Second CPU.
+16 bit bus.
+no pipeline.
+each instruction - 8 clock ticks.
+Assembler/Decompiler available.
