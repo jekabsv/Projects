@@ -1,0 +1,8 @@
+third CPU.
+Designed for an FPGA.
+one clock latecy RAM.
+Simple pipeline for fetching.
+almost finished.
+one clock - one instruction.
+assembler available.
+https://github.com/jekabsv/32bitFPGA
