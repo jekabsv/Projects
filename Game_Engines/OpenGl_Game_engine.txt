@@ -1,0 +1,6 @@
+Second Game engine.
+3D capable.
+Based on c++ with OpenGl.
+Developed together with a classmate.
+not finished, abandoned for now. Hopefully will continue developement.
+https://github.com/ksvaza/gframe
