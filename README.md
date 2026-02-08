@@ -1,6 +1,7 @@
 A library of all projects finished, abandoned or in progress.
 
 ***How to use***
+
 Projects are divided into folders.
 
 each project has a small description as a txt file.
